@@ -44,4 +44,33 @@ month
 12	-74.45
 
 ### Plot the average temperature by month
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/118228120/233139472-a345221b-c9d0-4717-ac93-6d1e2cdac0b0.png">
+
+### Identify the coldest and hottest months in Curiosity's location
+The coldest month is: 3
+The hottest month is: 8
+
+### 4. Average pressure by Martian month
+	pressure
+month	
+1	862.488506
+2	889.455056
+3	877.322917
+4	806.329897
+5	748.557047
+6	745.054422
+7	795.105634
+8	873.829787
+9	913.305970
+10	887.312500
+11	857.014493
+12	842.156627
+
+### Plot the average pressure by month
+<img width="357" alt="image" src="https://user-images.githubusercontent.com/118228120/233139723-796a996a-e595-4029-8119-b2a038869278.png">
+
+
+### 5. How many terrestrial (earth) days are there in a Martian year?
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/118228120/233139835-ac997541-0677-496d-b828-564cb838caf8.png">
+
 
